@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sriraman</h1>
+![banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY0MTI2MjMsIm5iZiI6MTczNjQxMjMyMywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA5VDA4NDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5OGIwZjFiMTM3YjY4ODBhMmFmMjU4NjFkYmE1OTc3NGFmZTg3ZDg1MWZiMTFlZDg5YWQxZjY3YjcxZDc4Y2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rkCI2IPEus7SrGfA6cdtXuVFkNlXmNvuVGmbAwaWvhM)
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=40 /> I'm Sriraman</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🌱 I’m currently learning **Python**
